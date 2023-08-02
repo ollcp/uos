@@ -12,4 +12,6 @@ systemctl disable license.service
 ```
 
 ## 安装docker和docker-compose
+```
 curl -s https://github.com/ollcp/uos/raw/main/uos.sh | bash
+```
